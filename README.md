@@ -29,7 +29,10 @@
   <img align="center" alt="Maxime-Windows" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Maxime-Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Maxime-Xamarin" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg">
-  <img align="center" alt="Maxime-NET-MAUI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg">
+   <img align="center" alt="Maxime-Apache" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+  <img align="center" alt="Maxime-DotNet" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Maxime-JSON" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg">
+  <img align="center" alt="Maxime-WordPress" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
 </div><br>
 
 ### GitHub Stats
