@@ -25,6 +25,9 @@
   <img align="center" alt="Maxime-VSCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Maxime-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Maxime-QT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+<img align="center" alt="Maxime-Android" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Maxime-Windows" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Maxime-Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div><br>
 
 ### GitHub Stats
