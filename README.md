@@ -7,6 +7,8 @@
   <img align="center" alt="Maxime-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maxime-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maxime-JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Maxime-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Maxime-Symfony" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
   <img align="center" alt="Maxime-LUA" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
   <img align="center" alt="Maxime-CPP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Maxime-C" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -15,8 +17,10 @@
   <img align="center" alt="Maxime-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Maxime-MySQL" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Maxime-MariaDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
+  <img align="center" alt="Maxime-MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Maxime-Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Maxime-GoogleCloud" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Maxime-PowerShell" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg">
-  <!-- <img align="center" alt="Maxime-Twig" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twig/twig-original.svg"> -->
   <img align="center" alt="Maxime-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Maxime-VSCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Maxime-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
